@@ -41,6 +41,8 @@ Stickman animation created using Java.
 
 #### Screenshots
 
+![Anime Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture3.png)
+
 #### Videos
 
 [Video Link](https://drive.google.com/file/d/1JSDigZJWQVBG2s3I3QWcBbnvOs1g2A7h/view?usp=sharing)
