@@ -14,6 +14,7 @@ Stickman animation created using Java.
    - [Usage](#usage)
    - [Previews](#previews)
      - [Screenshots](#screenshots)
+     - [Videos](#videos)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -28,6 +29,7 @@ Stickman animation created using Java.
 ### Installation
 
 1. Extract file ```anime-master.zip``` in your NetBeans projects folder.
+2. Rename folder ```anime-master``` to ```anime```.
 
 ### Usage
 
@@ -38,6 +40,10 @@ Stickman animation created using Java.
 ### Previews
 
 #### Screenshots
+
+#### Videos
+
+[Video Link](https://drive.google.com/file/d/1JSDigZJWQVBG2s3I3QWcBbnvOs1g2A7h/view?usp=sharing)
 
 ## Credits
 
