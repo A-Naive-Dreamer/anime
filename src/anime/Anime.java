@@ -26,12 +26,12 @@ import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
 
 public class Anime extends JPanel {
-    private static final String[] AUDIO = {
+    private static final String[] AUDIO = new String[] {
         "/filmfight.wav",
         "/attack.wav",
         "/applause2.wav"
     };
-    private static final String[] IMAGES = {
+    private static final String[] IMAGES = new String[] {
         "/1.png",
         "/2.png",
         "/3.png",
@@ -43,7 +43,7 @@ public class Anime extends JPanel {
         "/9.png"
     };
     
-    private final URL[] PATHS_1 = {
+    private final URL[] PATHS_1 = new URL[] {
         this.getClass().getResource(Anime.IMAGES[0]),
         this.getClass().getResource(Anime.IMAGES[1]),
         this.getClass().getResource(Anime.IMAGES[2]),
@@ -54,7 +54,7 @@ public class Anime extends JPanel {
         this.getClass().getResource(Anime.IMAGES[7]),
         this.getClass().getResource(Anime.IMAGES[8])
     };
-    private final URL[] PATHS_3 = {
+    private final URL[] PATHS_3 = new URL[] {
         this.getClass().getResource(Anime.AUDIO[0]),
         this.getClass().getResource(Anime.AUDIO[1]),
         this.getClass().getResource(Anime.AUDIO[2])
