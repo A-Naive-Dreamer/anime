@@ -12,9 +12,8 @@ Stickman animation created using Java.
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Previews](#previews)
-     - [Screenshots](#screenshots)
-     - [Videos](#videos)
+   - [Screenshots](#screenshots)
+   - [Videos](#videos)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -37,13 +36,11 @@ Stickman animation created using Java.
 2. Open project ```anime```.
 3. Run project.
 
-### Previews
-
-#### Screenshots
+### Screenshots
 
 ![Anime Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture3.png)
 
-#### Videos
+### Videos
 
 [Video Link](https://drive.google.com/file/d/1JSDigZJWQVBG2s3I3QWcBbnvOs1g2A7h/view?usp=sharing)
 
